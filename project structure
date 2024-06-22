@@ -1,0 +1,18 @@
+src/
+|-- components/
+|   |-- Sidebar.js
+|   |-- Header.js
+|   |-- ThemeSwitcher.js
+|   |-- TableComponent.js
+|   |-- ChartComponent.js
+|   |-- CalendarComponent.js
+|   |-- KanbanComponent.js
+|-- pages/
+|   |-- Dashboard.js
+|   |-- Tables.js
+|   |-- Charts.js
+|   |-- Calendar.js
+|   |-- Kanban.js
+|-- App.js
+|-- index.js
+|-- theme.js
