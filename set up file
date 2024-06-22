@@ -1,0 +1,4 @@
+
+npx create-react-app react-admin-dashboard
+cd react-admin-dashboard
+npm install @mui/material @mui/styles react-table recharts react-big-calendar @asseinfo/react-kanban styled-components react-router-dom
